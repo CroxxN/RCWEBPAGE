@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.first{
+  height: 760px;
+  background-color: purple;
+}
+.second{
+  height: 760px;
+  background-color: blue;
+}

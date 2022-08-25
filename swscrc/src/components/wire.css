@@ -1,0 +1,15 @@
+.my-thing {
+
+    min-width: 100vw;
+    height: 200px;
+    background-color: rgb(107, 107, 181);
+    color: white;
+    font-family: 'Silkscreen', cursive;
+    font-size: 40px;
+}
+.second{
+
+    min-width: 100vw;
+    height: 700px;
+    background-color: blue;
+}

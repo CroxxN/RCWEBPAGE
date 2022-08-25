@@ -1,0 +1,14 @@
+.container{
+    min-width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: teal;
+    height: 50px;
+    
+}
+
+.leftSide a{
+    text-decoration: none;
+    color: black;
+}
