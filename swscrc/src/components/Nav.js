@@ -1,6 +1,6 @@
 import { useState } from "react"
-import close from "./close.png"
-import menu from "./menu.png"
+import close from "../images/close.png"
+import menu from "../images/menu.png"
 
 export default function Nav(){
     const [navi,setNav]= useState(true)

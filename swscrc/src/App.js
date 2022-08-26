@@ -1,20 +1,21 @@
-import {ParallaxProvider} from 'react-scroll-parallax'
+import { ParallaxProvider } from 'react-scroll-parallax'
 import './App.css';
-import Wire from './components/Wire.js';
-import Navbar from './components/Navbar';
+import Wire from './components/Wire';
+import Nav from './components/Nav';
 
 function App() {
 
   return (
-      <ParallaxProvider>
-        <div className='App'>
-          <Navbar/>
-         <Wire/>
-         
-        
+    <ParallaxProvider>
+      <div className='App'>
+        <Wire />
 
-        </div>
-        </ParallaxProvider>
+
+    
+       
+      </div>
+    </ParallaxProvider>
+
   );
 }
 
