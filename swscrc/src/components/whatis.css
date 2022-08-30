@@ -1,0 +1,20 @@
+.container{
+
+
+    color: black;
+    padding: 10px;
+
+}
+.textAbout{
+    color: black;
+    margin: 10px;
+    padding: 10px;
+    font-size: 25px;
+    
+}
+.title{
+    font-family: 'Silkscreen', cursive; 
+}
+.image{
+    height: 400px;
+}

@@ -2,6 +2,8 @@ import { ParallaxProvider } from 'react-scroll-parallax'
 import './App.css';
 import Wire from './components/Wire';
 import Nav from './components/Nav';
+import Whatis from './components/Whatis';
+import Fbanner from './components/Fbanner';
 
 function App() {
 
@@ -12,7 +14,8 @@ function App() {
 
 
     
-       
+      <Whatis/>
+      <Fbanner/>
       </div>
     </ParallaxProvider>
 
